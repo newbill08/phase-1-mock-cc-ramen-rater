@@ -5,31 +5,31 @@
       "name": "Shoyu Ramen",
       "restaurant": "Nonono",
       "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
+      "rating": "9",
+      "comment": "Good to the last drop."
     },
     {
       "id": 2,
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "rating": "3",
+      "comment": "Good to the last drop."
     },
     {
       "id": 3,
       "name": "Nirvana Shiromaru",
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
-      "rating": "7",
-      "comment": "Do buy the hype."
+      "rating": "9",
+      "comment": "Good to the last drop."
     },
     {
       "id": 4,
       "name": "Gyukotsu Ramen",
       "restaurant": "Za-Ya Ramen",
       "image": "./assets/ramen/gyukotsu.jpg",
-      "rating": 8,
+      "rating": "3",
       "comment": "Good to the last drop."
     },
     {
@@ -39,6 +39,38 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "joshua newbill",
+      "restaurant": "adsfa",
+      "image": "https://lh6.googleusercontent.com/DeHsaiZNjMgQ7KOMqu5BzSteUsVKf0obfPMqDtG16slGzEw397kdedJ9QB-6bZfMUQoLoYzvX0FLnzdJfKt8dxUOxd9J35c07xxJF6q1s6isM1YyiJOMj7nRERhbiXg8qQ96ZB6w=s0",
+      "rating": "-1",
+      "comment": "s",
+      "id": 6
+    },
+    {
+      "name": "sdgss",
+      "restaurant": "adsfa",
+      "image": "https://www.allrecipes.com/thmb/M5RuR8D6Puc8Ac65WRSvYjhco_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/244458-buttered-noodles-DDMFS-4x3-b9931662efa64b37883c0f73b296b124.jpg",
+      "rating": "2",
+      "comment": "sa",
+      "id": 7
+    },
+    {
+      "name": "1204 junction run",
+      "restaurant": "adsfa",
+      "image": "https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-1-.jpg",
+      "rating": "8",
+      "comment": "32434",
+      "id": 8
+    },
+    {
+      "name": "lkjad;lkjfa;isdlek",
+      "restaurant": "e'wkjq;oiajeflkamws",
+      "image": "https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-1-.jpg",
+      "rating": "1",
+      "comment": "qw",
+      "id": 9
     }
   ]
 }
